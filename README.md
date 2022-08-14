@@ -91,7 +91,7 @@ here is a demo,
 Clone the repository
 
 ```bash
-k
+https://github.com/sachink45/Movie_Recommendation_System.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
@@ -113,7 +113,7 @@ pip install -r requirements.txt
 ```bash
 #run this file to generate the models
 
-Movie Recommender System Data Analysis.ipynb
+model.ipynb
 ```
 
 Now run,
